@@ -8,9 +8,6 @@ html, body {
   flex-direction: column;
   font-weight: 300;
   line-height: 1.5;
-  Margin: 20px;
-  border: 5px solid #ffffff;
-  padding: 20px;
 }
 
 body {
@@ -19,8 +16,9 @@ body {
   background-image: url('https://onextrapixel.com/wp-content/uploads/2017/04/6df23e313830bf0fea9f8dce8fb87c61.jpg');
   background-position: center top;
   background-size: contain;
-  margin: 15px;
-  padding: 15px;
+  Margin: 20px;
+  border: 5px solid #ffffff;
+  padding: 20px;
 }
 
 h1 {
