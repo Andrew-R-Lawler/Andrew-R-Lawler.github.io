@@ -1,4 +1,4 @@
-.p2 {
+p2 {
   float: right;
 }
 
@@ -8,6 +8,8 @@ html, body {
   flex-direction: column;
   font-weight: 300;
   line-height: 1.5;
+  Margin: 20px;
+  border: 5px solid #ffffff;
 }
 
 body {
