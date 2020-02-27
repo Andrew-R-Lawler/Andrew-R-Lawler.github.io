@@ -15,7 +15,8 @@ body {
   background-image: url('https://onextrapixel.com/wp-content/uploads/2017/04/6df23e313830bf0fea9f8dce8fb87c61.jpg');
   background-position: center top;
   background-size: cover;
-  margin: 15;
+  margin: 15px;
+  padding: 15px;
 }
 
 h1 {
