@@ -17,3 +17,7 @@ body {
   background-size: cover;
   margin: 15;
 }
+
+h1 {
+  font-size: 56px;
+}
