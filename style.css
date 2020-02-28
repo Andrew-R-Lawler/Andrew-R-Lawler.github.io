@@ -1,22 +1,14 @@
-date {
-  float: right;
-}
-
-html, body {
-  min-height: 100%;
-  display: flex;
-  flex-direction: column;
-  font-weight: 300;
-  line-height: 1.5;
-}
-
 body {
   color: #ffffff;
   font-family: 'Lato', sans-serif;
   background-image: url('https://onextrapixel.com/wp-content/uploads/2017/04/6df23e313830bf0fea9f8dce8fb87c61.jpg');
   background-position: center top;
   background-size: contain;
-  Margin: 20px;
+  Margin: 56px;
   border: 5px solid #ffffff;
-  padding: 20px;
+  padding: 56px;
+}
+
+.date {
+  float: right;
 }
