@@ -6,9 +6,14 @@ body {
   background-size: contain;
   Margin: 56px;
   border: 5px solid #ffffff;
-  padding: 56px;
+  padding: 32px;
 }
 
 .date {
   float: right;
+}
+
+.list {
+  font-weight: 100;
+  line-height: 1.5;
 }
